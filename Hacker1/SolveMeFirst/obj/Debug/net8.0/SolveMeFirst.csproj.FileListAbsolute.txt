@@ -1,0 +1,14 @@
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\bin\Debug\net8.0\SolveMeFirst.exe
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\bin\Debug\net8.0\SolveMeFirst.deps.json
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\bin\Debug\net8.0\SolveMeFirst.runtimeconfig.json
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\bin\Debug\net8.0\SolveMeFirst.dll
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\bin\Debug\net8.0\SolveMeFirst.pdb
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\SolveMeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\SolveMeFirst.AssemblyInfoInputs.cache
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\SolveMeFirst.AssemblyInfo.cs
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\SolveMeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\SolveMeFirst.dll
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\refint\SolveMeFirst.dll
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\SolveMeFirst.pdb
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\SolveMeFirst.genruntimeconfig.cache
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SolveMeFirst\obj\Debug\net8.0\ref\SolveMeFirst.dll

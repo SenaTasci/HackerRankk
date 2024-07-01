@@ -1,0 +1,14 @@
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\bin\Debug\net8.0\SimpleArraySum.exe
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\bin\Debug\net8.0\SimpleArraySum.deps.json
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\bin\Debug\net8.0\SimpleArraySum.runtimeconfig.json
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\bin\Debug\net8.0\SimpleArraySum.dll
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\bin\Debug\net8.0\SimpleArraySum.pdb
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\SimpleArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\SimpleArraySum.AssemblyInfoInputs.cache
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\SimpleArraySum.AssemblyInfo.cs
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\SimpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\SimpleArraySum.dll
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\refint\SimpleArraySum.dll
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\SimpleArraySum.pdb
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\SimpleArraySum.genruntimeconfig.cache
+C:\Users\Legion\OneDrive\Belgeler\GitHub\Hacker1\SimpleArraySum\obj\Debug\net8.0\ref\SimpleArraySum.dll
